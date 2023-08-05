@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ichsan71
-- 👀 I’m interested in Mobile Programming, kotlin, java
+- 👀 I’m interested in Android Programming, kotlin, java and Machine learning, Python
 - 🌱 I’m currently learning android programming
 - 📫 How to reach me @markumil_
 
